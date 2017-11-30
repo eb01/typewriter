@@ -1,7 +1,8 @@
-# typewriter :
+# typewriter
 
-Une mini-machine à écrire réalisée avec un peu de CSS
+GitHub Pages Showcase : https://eb01.github.io/typewriter/
+Une mini-machine à écrire réalisée avec un peu de CSS.
 
-# Source utilisée :
+## Source
 
-Magazine Web Design N°81
+Magazine Web Design N°81 : http://www.webdesignmag.fr/

@@ -10,6 +10,18 @@ body, html {
 	text-align: center;
 }
 
+a, a:visited {
+	font-size: 1.3rem;
+	text-decoration: none;
+	color: #FFF;
+	border-bottom: 1px solid #00BCD4;
+}
+
+a:hover, a:active {
+	color: #00BCD4;
+	border: none;
+}
+
 .typewriter p {
 	font-size: 1.5rem;
 	overflow: hidden;
